@@ -33,7 +33,7 @@ div.book.side{
 .checked{
     color: yellow;
 }
-@media(max-width:515px) {
+@media(max-width:815px) {
     .two>h1{
         text-align: center;
         font-size: 25px;
@@ -42,6 +42,7 @@ div.book.side{
     header{
         display: flex;
         flex-direction: column;
+        
     }
     div>img{
         width: 200px;
